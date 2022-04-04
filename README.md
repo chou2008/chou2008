@@ -7,3 +7,6 @@
 ![Vim](https://img.shields.io/badge/Editor-Vim-orange)
 ![VS Code](https://img.shields.io/badge/Editor-VS%20Code-orange)
 ![Linux](https://img.shields.io/badge/OS-Linux-brightgreen)
+![MySQL](https://img.shields.io/badge/Database-MySQL-red)
+![SQLServer](https://img.shields.io/badge/Database-SQL%20Server-red)
+![Oracle](https://img.shields.io/badge/Database-Oracle-red)
