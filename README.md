@@ -5,3 +5,5 @@
 
 ### My Skills:
 ![Vim](https://img.shields.io/badge/Editor-Vim-orange)
+![VS Code](https://img.shields.io/badge/Editor-VS%20Code-orange)
+![Linux](https://img.shields.io/badge/OS-Linux-brightgreen)
